@@ -1,0 +1,27 @@
+{
+  "name": "new-react-app",
+  "version": "12.16.2",
+  "description": "Sample react project",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mahendra Jena",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^15.6.2",
+    "react-dom": "^15.6.2"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-loader": "^6.4.1",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "css-loader": "^0.26.4",
+    "path": "^0.12.7",
+    "style-loader": "^0.13.2",
+    "webpack": "^2.7.0",
+    "webpack-dev-server": "^1.16.5"
+  }
+}
